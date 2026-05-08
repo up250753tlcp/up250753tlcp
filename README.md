@@ -1,4 +1,4 @@
-##Hi there 👋
+*Hi there* 👋
 
 Hola mi nombre es Christian, soy estudiante en la Universidad Politéncica de Aguascalientes en la carrera de TIID y les quiero presentar mis trabajos.
 
