@@ -1,6 +1,8 @@
 ##Hi there 👋
 
-Hola mi nombre es Christian, soy estudiante en la Universidad Politencica de Aguascalientes en la carrera de TIID y les quiero presentar mis trabajos.!http://upa.edu.mx/wp-content/uploads/2024/03/banner-sitio-UPA_veda.png
+Hola mi nombre es Christian, soy estudiante en la Universidad Politencica de Aguascalientes en la carrera de TIID y les quiero presentar mis trabajos.
+
+!http://upa.edu.mx/wp-content/uploads/2024/03/banner-sitio-UPA_veda.png
 
 
 
